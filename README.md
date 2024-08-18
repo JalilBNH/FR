@@ -12,7 +12,7 @@
 **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
 - **Description**: J'ai effectué mon stage du pôle signal & image. 
 - **Tâches (technologies)**:
-- **Lien du projet**:[Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
+- **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
 
 
 ## **Projets**
