@@ -10,8 +10,9 @@
 ## **Expérience de recherche**
 
 **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
-- **Description**: J'ai effectué mon stage du pôle signal & image. 
-- **Tâches (technologies)**:
+- **Description**: L'objectif de mon stage était de segmenter les blocs de pierre sur des modèles 3D de sites archéologiques modélisés via des techniques de photogrammétries.
+- **Tâches (technologies)**: - Recher d'une méthode de segmentation en 3D
+                             - Entrainement d'un modèle de segmentation via Detectron2
 - **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
 
 
