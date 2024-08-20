@@ -9,8 +9,8 @@
 
 ## **Expérience de recherche**
 
-**Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
-- **Description**: L'objectif de mon stage était de segmenter les blocs de pierre sur des modèles 3D de sites archéologiques modélisés via des techniques de photogrammétries.
+### **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
+**Description**: Segmenter des blocs de pierre sur des modèles 3D de sites archéogiques modélisés via des techniques photogrammétries. 
 - **Tâches (technologies)**:
     * Recher d'une méthode de segmentation en 3D
     * Entrainement d'un modèle de segmentation via Detectron2
