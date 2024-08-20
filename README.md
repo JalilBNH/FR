@@ -11,7 +11,7 @@
 
 ### **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
 **Objectif**: Segmenter des blocs de pierre sur des modèles 3D de sites archéogiques modélisés via des techniques photogrammétries. 
-**Tâches (technologies)**:
+\**Tâches (technologies)**:
     * Recher d'une méthode de segmentation en 3D
     * Entrainement d'un modèle de segmentation via Detectron2
 - **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
