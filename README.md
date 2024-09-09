@@ -4,15 +4,17 @@
 
 - **Langages de programmation**: Python, C
 - **Frameworks**: PyTorch, Tensorflow, Detectron2
+- **Librairies**: Pandas, Numpy, Scipy, openCV
 - **Outils**: Amazon AWS, Nuclio, Docker, GIT, CVAT, Roboflow
-- **Autres compétences**: Gestion de projet en machine learning, Vision par ordinateur, Deep learning
+- **Logiciels**: Matlab, Metashape, Blender
+- **Autres compétences**: Gestion de projet en machine learning, Vision par ordinateur
 
 ## **Expérience de recherche**
 
 ### **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
-**Objectif**: Segmenter des blocs de pierre sur des modèles 3D de sites archéogiques modélisés via des techniques photogrammétries.\
-**Tâches (technologies)**:
-    * Recher d'une méthode de segmentation en 3D
+**Objectif**: Segmenter les blocs de pierre sur des modèles 3D de sites archéogiques modélisés via des techniques photogrammétries.\
+**Tâches**:
+    * Entrainement d'un modèle de segmentation par instance (Mask R-CNN) via Detectron2 afin de détecter les blocs de pierresdans des photos 
     * Entrainement d'un modèle de segmentation via Detectron2
 - **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
 
