@@ -11,13 +11,18 @@
 
 ## **Expérience de recherche**
 
-### **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes (_Mai 2024 - Août 2024_)**
+### **Stagiaire en vision par ordinateur @ Laboratoire d'informatique et systèmes - CNRS (_Mai 2024 - Août 2024_)**
 **Objectif**: Segmenter les blocs de pierre sur des modèles 3D de sites archéogiques modélisés via des techniques photogrammétries.\
 **Tâches**:
-    * Entrainement d'un modèle de segmentation par instance (Mask R-CNN) via Detectron2 afin de détecter les blocs de pierresdans des photos 
-    * Entrainement d'un modèle de segmentation via Detectron2
+    * Entrainement d'un modèle de segmentation par instance (Mask R-CNN) via Detectron2 afin de détecter les blocs de pierres dans des photos
+    * Fine-tuning du modèle grâce à des méthodes d'augmentation de données. Visualisation des métrics via tensorboard.
+    * Utilisation des méthodes de photogrammétrie et des informations obtenues par notre modèle de segmentation en 2D pour les transposer en 3D afin d'automatiser le relevé 3D pierres à pierres
+    * Recherche et développement d'une méthode permettant le moyennage des masques de segmentation en 3D
 - **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
 
+## **Expériences en entreprise**
+
+### **Stagiaire
 
 ## **Projets**
 
