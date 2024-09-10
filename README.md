@@ -39,11 +39,17 @@ et des compteurs d’énergies commandés en Modbus.
 - **Tâches (technologies)**: Détection des joueurs sur le terrain (YOLO)
 - **Lien du projet**: [Football Data Extraction](https://github.com/JalilBNH/football-data-extraction.git)
 
+### 2. Projet de réalisation technique 
+- **Description**: L'objectif de ce projet était de déployer des fonctions de détections et de segmentation sur le cloud 
+
 
 
 ## **Formation**
 
 - **[Aix-Marseille Université]** - [Master Traitement du signal et des images], [_Septembre 2023 - Présent_]
+- **[Aix-Marseille Université]** - [Licence 3 Électronique, électrotechnique et automatique], [_Septembre 2022 - Juin 2023_]
+- **[Aix-Marseille Université]** - [Licence 3 Physique appliquée et instrumentation], [_Septembre 2021 - Juin 2022_]
+- **[Aix-Marseille Université]** - [Diplôme universitaire et technologique : Génie électrique et informatique industriel], [_Septembre 2019 - Juin 2021_]
 
 ## **Certifications**
 - [Réseaux de neurones et apprentissage profond](_Janvier 2024_)
