@@ -23,7 +23,7 @@
 ## **Expériences en entreprise**
 
 ### **Stagiaire en électrotechnique et informatique industriel @ SmartFuture**
-**Objectif**: La société dans laquelle j'ai effectué mon stage réalisait des capteurs permettant de mesurer le courant électrique sans avoir besoin de brancher. Je travaillais en binome sur la réalisation d'un tableau électrique permettant de tester ces capteurs.
+**Objectif**: La société dans laquelle j'ai effectué mon stage réalisait des capteurs permettant de mesurer le courant électrique sans avoir besoin de brancher. Je travaillais en binome sur la réalisation d'un tableau électrique permettant de tester ces capteurs.\
 **Tâches**: 
     * Etude développement et câblage d’un tableau électrique contenant 9 disjoncteurs, un ensemble de relais
 et des compteurs d’énergies commandés en Modbus.
