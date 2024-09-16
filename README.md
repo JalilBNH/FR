@@ -75,4 +75,7 @@ Déploiement de fonctions de détection et de segmentation d’images sur le clo
 
 ## **Certifications**
 
-- **Réseaux de neurones et apprentissage profond** (_Janvier 2024_)
+- **[Réseaux de neurones et apprentissage profond](https://www.coursera.org/account/accomplishments/verify/9NULZ4CVXV9G)** (_Janvier 2024_)
+- **[Réseaux de neurones: Réglages des hyperparamètres, Régularisation, Optimisation](https://www.coursera.org/account/accomplishments/verify/TH946CV32C2M)** (_Février 2024_)
+- **[Réseaux de neurones convolutifs](https://www.coursera.org/account/accomplishments/verify/Q53Z7DNLRSK9)** (_Mars 2024_)
+- **[Réseaux de neurones récurrents](https://www.coursera.org/account/accomplishments/verify/E6TKT8QZC73L)** (_Mars 2024_)
