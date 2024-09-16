@@ -25,7 +25,7 @@ _Laboratoire d'informatique et systèmes - CNRS_
 - Entraînement d'un modèle de segmentation par instance (Mask R-CNN) via Detectron2 pour détecter les blocs de pierre sur des photos.  
 - Optimisation du modèle grâce à des méthodes d'augmentation de données, avec visualisation des métriques sur TensorBoard.  
 - Transposition des résultats de segmentation 2D en 3D pour automatiser le relevé 3D pierre à pierre à l’aide de méthodes photogrammétriques.  
-- Développement d'une méthode de moyennage des masques de segmentation en 3D.
+- Recherche et développement d'une méthode de moyennage des masques de segmentation en 3D.
 
 **Lien du projet**: [Vrak3D](https://github.com/JalilBNH/Vrak3D.git)
 
@@ -47,13 +47,14 @@ _SmartFuture_
 
 ## **Projets**
 
-### 1. **Extraction de données de matchs de football amateur**  
+### 1. **Extraction de données de matchs de football amateur _(En cours)_**  
 **Description**:  
-En combinant ma passion pour le sport et la vision par ordinateur, j’ai lancé un projet visant à démocratiser l’analyse de données pour les clubs amateurs de football. L’objectif est de filmer les matchs avec une seule caméra (par exemple un téléphone) et d’en extraire des données exploitables pour les joueurs et les entraîneurs.
+J'ai décidé de combiner ma passion pour le sport et la vision par ordinateur en lançant un petit projet visant à démocratiser l’analyse de données pour les clubs amateurs de foot. L’objectif est de filmer les matchs avec une seule caméra (par exemple un téléphone) et d’en extraire des données exploitables pour les joueurs et les entraîneurs et les clubs.
 
 **Tâches (technologies)**:  
-- Détection des joueurs sur le terrain à l’aide du modèle YOLO (You Only Look Once).  
-- Extraction des données et visualisation.
+- Détection des joueurs sur le terrain à l’aide du modèle YOLO.  
+- Recherche d'une méthode d'identification de joueurs sur le terrain.
+- Recherche d'une méthode de reconnaissance d'actions
 
 **Lien du projet**: [Football Data Extraction](https://github.com/JalilBNH/football-data-extraction.git)
 
